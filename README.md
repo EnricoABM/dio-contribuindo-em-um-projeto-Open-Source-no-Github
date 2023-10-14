@@ -1,1 +1,1 @@
-# dio-contribuindo-em-um-projeto-Open-Source-no-Github
+# DIO-Contribuindo-em-um-projeto-Open-Source-no-Github
